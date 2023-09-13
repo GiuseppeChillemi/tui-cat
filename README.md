@@ -20,6 +20,8 @@ Compile it with...
 
 ...and run the game with `console.exe tui-pac.red`
 
+The game is a SPEEDRUN Pacman with no ghosts, they will be added later 
+
 Have fun!
 
 Giuseppe Chillemi
