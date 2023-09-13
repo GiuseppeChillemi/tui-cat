@@ -15,6 +15,12 @@ Red [
 		mazes
 		Toggle debug informations
 	}
+	notes: {
+	   maze taken from here: 
+	   https://codeberg.org/NNB/ansi/ (This resource is full of links!!!)
+	   that has also been taken from
+	   https://www.reddit.com/r/unixporn/comments/jisfcx/oc_pacman_prompt_anyone/
+	}
 	
 ]
 
