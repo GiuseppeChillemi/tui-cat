@@ -22,6 +22,8 @@ Compile it with...
 
 The game is a SPEEDRUN Pacman with no ghosts, they will be added later 
 
+![image](https://github.com/GiuseppeChillemi/tui-cat/assets/1828237/dcc37b25-a8d9-435d-810e-c59a8c07d1cb)
+
 Have fun!
 
 Giuseppe Chillemi
