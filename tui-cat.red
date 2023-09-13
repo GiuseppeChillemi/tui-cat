@@ -442,7 +442,7 @@ ctx-maze: make object! [
 			process-maze
 			insert clear head dotsc/text to-string dots-count
 			
-			if dots-count = 280 [
+			if dots-count = 0 [
 				
 				view me: layout/tight [
 					on-key [
