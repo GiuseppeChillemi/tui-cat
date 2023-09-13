@@ -6,6 +6,7 @@ Red [
 	Author: "Giuseppe Chillemi"
 	Copyright: "To Be defined"
 	TBD: {
+		Add lateral walls trepassing management
 		Add ghosts
 		Add Big Pill management
 		Add hi-score
