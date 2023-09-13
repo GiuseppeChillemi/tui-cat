@@ -6,6 +6,8 @@ Red [
 	Author: "Giuseppe Chillemi"
 	Copyright: "To Be defined"
 	TBD: {
+		Redo the engine to keep on the central way and not on lateral space
+		Fix the uncentered PAC
 		Add lateral walls trepassing management
 		Add ghosts
 		Add Big Pill management
@@ -15,6 +17,7 @@ Red [
 		Make the path engine able to handle all
 		mazes
 		Toggle debug informations
+		
 	}
 	notes: {
 	   maze taken from here: 
