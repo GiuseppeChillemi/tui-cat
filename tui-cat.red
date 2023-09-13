@@ -197,7 +197,7 @@ ctx-maze: make object! [
 	
 	record-time: none
 
-;--- Characters, unused in the sourche but listed here for personal preference
+;--- Characters, unused in the source but listed here for personal preference
 	
 	esc: #{1B}
 	open-square: #{5B}
