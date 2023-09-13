@@ -544,6 +544,9 @@ start-pac: does [
 			ltext "" return
 			ltext "Last Time:"  LAST-TIME: text 15x1 data ctx-maze/last-time blue return
 			ltext "Record:"  RECORD-TIME: text 15x1 data ctx-maze/record-time  return
+			ltext "" return
+			ltext "Press Q to quit" magenta return
+
 		]
 		
 		
