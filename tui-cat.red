@@ -12,6 +12,7 @@ Red [
 		Add ghosts
 		Add Big Pill management
 		Add hi-score
+		Save Hi-Score
 		Add level editor
 		Add "hidden" playmode
 		Make the path engine able to handle all
@@ -24,6 +25,9 @@ Red [
 	   https://codeberg.org/NNB/ansi/ (This resource is full of links!!!)
 	   that has also been taken from
 	   https://www.reddit.com/r/unixporn/comments/jisfcx/oc_pacman_prompt_anyone/
+	}
+	LOG: {
+		Changed the name to TUI-PAC
 	}
 	
 ]
